@@ -1,0 +1,15 @@
+.container {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.card-res-room {
+    padding: 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.time-btn {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

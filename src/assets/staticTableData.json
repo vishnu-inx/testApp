@@ -1,0 +1,429 @@
+{
+    "result": [
+        {
+            "room": "A",
+            "name": "Table 6",
+            "type": "Table",
+            "capacity": 4,
+            "description": "Proche comptoir",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "createdAt": "2020-01-12T18:39:12.916Z",
+            "updatedAt": "2021-02-02T20:29:26.920Z",
+            "x": 725,
+            "y": 60,
+            "shareable": false,
+            "objectId": "gUBBgHhnUU",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "A",
+            "name": "Table 3",
+            "type": "Table",
+            "capacity": 8,
+            "description": "Table Haute",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "createdAt": "2020-01-12T18:38:24.555Z",
+            "updatedAt": "2020-03-11T21:48:36.634Z",
+            "x": 670,
+            "y": 130,
+            "shareable": false,
+            "objectId": "9QFzxhECjA",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "A",
+            "name": "Table 7",
+            "type": "Table",
+            "capacity": 2,
+            "description": "Table Haute vue Jardin",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "createdAt": "2020-01-12T18:39:29.168Z",
+            "updatedAt": "2021-08-04T12:25:48.051Z",
+            "x": 790,
+            "y": 130,
+            "shareable": false,
+            "zoneowning": {
+                "__type": "Pointer",
+                "className": "Inventory",
+                "objectId": "9FSqNsMlRD"
+            },
+            "enddate": "",
+            "startdate": "",
+            "objectId": "4q4OS9OY2m",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "B",
+            "name": "Table 11",
+            "type": "Table",
+            "capacity": 2,
+            "description": "Sous Carbet",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "createdAt": "2020-01-12T18:41:29.784Z",
+            "updatedAt": "2021-02-02T20:30:53.998Z",
+            "x": 105,
+            "y": 139,
+            "zoneowning": {
+                "__type": "Pointer",
+                "className": "Inventory",
+                "objectId": "9FSqNsMlRD"
+            },
+            "shareable": false,
+            "dimensions": {
+                "width": 137.7450980392157,
+                "height": 92.3076923076923
+            },
+            "objectId": "A7RQEQPyvG",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "B",
+            "name": "Terrasse",
+            "type": "Zone",
+            "capacity": 12,
+            "description": "Fin et délicieux",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "shareable": true,
+            "createdAt": "2020-03-08T22:31:45.442Z",
+            "updatedAt": "2020-03-09T11:39:40.324Z",
+            "x": 499,
+            "y": 40,
+            "objectId": "9yOCgkvzpQ",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "B",
+            "name": "Table 4 ",
+            "type": "Table",
+            "capacity": 2,
+            "description": "Sous Carbet",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "createdAt": "2020-01-12T18:38:39.648Z",
+            "updatedAt": "2021-02-02T20:29:03.628Z",
+            "x": 336,
+            "y": 271.03172413793106,
+            "zoneowning": {
+                "__type": "Pointer",
+                "className": "Inventory",
+                "objectId": "9FSqNsMlRD"
+            },
+            "shareable": false,
+            "objectId": "NCoqFXBIGx",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "C",
+            "name": "Table 1",
+            "type": "Table",
+            "capacity": 4,
+            "description": "Sous Carbet",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "createdAt": "2020-01-12T18:37:37.538Z",
+            "updatedAt": "2021-02-02T20:30:41.052Z",
+            "x": 298,
+            "y": 142.79548660084623,
+            "zoneowning": {
+                "__type": "Pointer",
+                "className": "Inventory",
+                "objectId": "9FSqNsMlRD"
+            },
+            "shareable": false,
+            "objectId": "1u7BP1DAHW",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "C",
+            "name": "Table 8",
+            "type": "Table",
+            "capacity": 4,
+            "description": "Terrasse vue Jardin",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "createdAt": "2020-01-12T18:40:18.182Z",
+            "updatedAt": "2021-02-02T20:29:13.447Z",
+            "x": 778,
+            "y": 209.09103448275863,
+            "zoneowning": {
+                "__type": "Pointer",
+                "className": "Inventory",
+                "objectId": "9yOCgkvzpQ"
+            },
+            "shareable": false,
+            "objectId": "PxqqN21fML",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "C",
+            "name": "Table 10",
+            "type": "Table",
+            "capacity": 2,
+            "description": "Terrasse vue jardin",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "createdAt": "2020-01-12T18:41:02.736Z",
+            "updatedAt": "2022-01-03T14:25:42.806Z",
+            "x": 488,
+            "y": 87,
+            "zoneowning": {
+                "__type": "Pointer",
+                "className": "Inventory",
+                "objectId": "9yOCgkvzpQ"
+            },
+            "shareable": false,
+            "dimensions": {
+                "width": 148.52941176470586,
+                "height": 50
+            },
+            "objectId": "koOi2Rdj7P",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "C",
+            "name": "Table 5",
+            "type": "Table",
+            "capacity": 2,
+            "description": "Sous Carbet",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "createdAt": "2020-01-12T18:38:59.885Z",
+            "updatedAt": "2021-02-02T20:30:42.993Z",
+            "x": 62,
+            "y": 254,
+            "zoneowning": {
+                "__type": "Pointer",
+                "className": "Inventory",
+                "objectId": "9FSqNsMlRD"
+            },
+            "shareable": false,
+            "objectId": "ksBAe7x46F",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "D",
+            "name": "Table 2 ",
+            "type": "Table",
+            "capacity": 2,
+            "description": "Sous Carbet",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "createdAt": "2020-01-12T18:38:07.240Z",
+            "updatedAt": "2022-04-12T17:20:35.293Z",
+            "x": 186.3333282470703,
+            "y": 303.33331298828125,
+            "zoneowning": {
+                "__type": "Pointer",
+                "className": "Inventory",
+                "objectId": "9FSqNsMlRD"
+            },
+            "shareable": false,
+            "objectId": "WbpOCfNdw3",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "D",
+            "name": "Table 9",
+            "type": "Table",
+            "capacity": 4,
+            "description": "Terrasse vue jardin",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "createdAt": "2020-01-12T18:40:36.439Z",
+            "updatedAt": "2021-02-02T20:29:10.827Z",
+            "x": 654,
+            "y": 196,
+            "zoneowning": {
+                "__type": "Pointer",
+                "className": "Inventory",
+                "objectId": "9yOCgkvzpQ"
+            },
+            "shareable": false,
+            "objectId": "b4chEY4jHb",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "D",
+            "type": "A placer",
+            "capacity": 0,
+            "shareable": false,
+            "description": "A positionner sur une table.",
+            "name": "A PLACER",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "useMasterKey": true,
+            "createdAt": "2020-06-08T15:56:27.620Z",
+            "updatedAt": "2022-09-28T15:15:32.946Z",
+            "x": 187,
+            "y": -53.5,
+            "objectId": "iksSqf4ZB5",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "D",
+            "name": "Carbet",
+            "type": "Zone",
+            "capacity": 30,
+            "description": "",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "shareable": true,
+            "createdAt": "2020-03-08T22:31:32.425Z",
+            "updatedAt": "2020-03-08T22:34:32.164Z",
+            "x": 70,
+            "y": 39,
+            "objectId": "9FSqNsMlRD",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "D",
+            "type": "Livraison",
+            "capacity": 2,
+            "shareable": false,
+            "description": "Commande en livraison",
+            "name": "LIVRAISON",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "useMasterKey": true,
+            "createdAt": "2020-03-30T00:13:00.332Z",
+            "updatedAt": "2022-07-01T19:39:53.895Z",
+            "x": -100,
+            "y": -2,
+            "objectId": "MEicIMc2Wm",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "A",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "name": "A PLACER",
+            "type": "A placer",
+            "capacity": 4,
+            "description": "A positionner sur une table.",
+            "createdAt": "2022-04-13T05:07:00.146Z",
+            "updatedAt": "2022-04-13T05:07:00.146Z",
+            "objectId": "OD5HyI1sxD",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "D",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "name": "A PLACER",
+            "type": "A placer",
+            "capacity": 6,
+            "description": "A positionner sur une table.",
+            "createdAt": "2022-04-13T05:07:00.163Z",
+            "updatedAt": "2022-04-13T05:07:00.163Z",
+            "objectId": "rDAhKjbKXZ",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "A",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "name": "A PLACER",
+            "type": "A placer",
+            "capacity": 0,
+            "description": "A positionner sur une table.",
+            "createdAt": "2022-04-13T05:07:00.559Z",
+            "updatedAt": "2022-04-13T05:07:00.559Z",
+            "objectId": "Tbc1FOoNJB",
+            "__type": "Object",
+            "className": "Inventory"
+        },
+        {
+            "room": "D",
+            "intcust": {
+                "__type": "Pointer",
+                "className": "Intcust",
+                "objectId": "PfhXlnfdc3"
+            },
+            "name": "A PLACER",
+            "type": "A placer",
+            "capacity": 8,
+            "description": "A positionner sur une table.",
+            "createdAt": "2022-04-13T05:07:00.570Z",
+            "updatedAt": "2022-04-13T05:07:00.570Z",
+            "objectId": "636eQIAjd0",
+            "__type": "Object",
+            "className": "Inventory"
+        }
+    ]
+}
